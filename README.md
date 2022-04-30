@@ -19,7 +19,7 @@ This application used to be made using a RESTful API and has been refactored to 
 ![Book Search Engine Screenshot](./images/book-search-engine-screenshot-2.jpg)
 
 ## URL
-https://frozen-escarpment-09006.herokuapp.com/
+https://infinite-forest-76974.herokuapp.com/
 
 ## Usage
 This application searches Google API for books and lets you save them.
